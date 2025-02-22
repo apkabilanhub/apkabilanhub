@@ -1,3 +1,3 @@
 - -----> Hello Brosis , This is Kabilan.
-- -----> Trying to be a Java Pro.
+- -----> Trying to be a Java Developer.
 - -----> Persuing B.tech CSE in SRM.
